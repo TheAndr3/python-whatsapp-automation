@@ -26,7 +26,8 @@ with open(CSV_PATH, newline='', encoding='utf-8') as csvfile:
     for row in reader:
         nome = row['nome'].split()[0]
         whatsapp = "55" + row['@whatsapp']
-        
+
+        # This is an example message; customize as needed, for our case, its a refinance offer to the Safra bank
         target_message = f"""Oi {nome}, Boa Tarde!
 
         Como você está? Lembra de mim?
