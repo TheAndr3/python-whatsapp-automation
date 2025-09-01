@@ -13,6 +13,7 @@ This project provides a Python script to send personalized WhatsApp messages in 
 
 - [Docker](https://www.docker.com/get-started) and [Docker Compose](https://docs.docker.com/compose/install/)
 - [Python 3](https://www.python.org/downloads/)
+- Read the [EvolutionAPI](https://doc.evolution-api.com/v1/pt/get-started/introduction) documentation to understand how the things work.
 
 ## Setup and Configuration
 
